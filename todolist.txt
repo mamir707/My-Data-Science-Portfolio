@@ -1,0 +1,11 @@
+Investigating Netflix movies and Guest stars in the office
+The GitHub history of the scala language
+Predictive Modelling for Agriculture
+Hypothesis testing at health care
+Dr. Semmelweis and the discovery of handwashing
+A visual history of Noble Prize winners
+The android app market on GooglePlay
+Predicting credit card approvals
+GooglePlay store apps data
+Telcom customer data terminal app
+Analysing students' Mental Health in SQL
