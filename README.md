@@ -8,7 +8,7 @@ Welcome to my data science portfolio! This repository contains code and projects
 
 Description: In this project, I use Python to solve a real-world data science problem. The goal is to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
 
-Code: [Link to Project 1 Notebook](Project_1/Investigating Netflix movies and Guest stars in Office.ipynb)
+Code: [Link to Project 1 Notebook](My-Data-Science-Portfolio/Project_1/Investigating Netflix movies and Guest stars in Office.ipynb)
 
 ### 2. The GitHub History of the Scala Language
 
