@@ -97,9 +97,14 @@ Code: [Link to Project 10 Code](Project_10)
    git clone https://github.com/your-username/data-science-portfolio.git
    cd data-science-portfolio
 
+## Acknowledgment
 
-## Contact
+I would like to express my gratitude to [DataCamp](https://www.datacamp.com/) for providing an invaluable learning platform that has significantly contributed to my growth as a data scientist. The projects included in this portfolio are a result of the hands-on experience and knowledge gained through DataCamp's well-structured courses and interactive learning environment.
 
-Feel free to reach out to me for collaboration or inquiries. You can contact me at [mohdamir69@gmail.com](mailto:mohdamir69@gmail.com).
+Each project represents a milestone in my data science journey, covering a range of topics from exploratory data analysis to predictive modeling and hypothesis testing. The practical skills acquired during these projects, along with the comprehensive learning resources on DataCamp, have been instrumental in enhancing my proficiency in programming languages like Python and R, as well as my understanding of key data science concepts.
 
-Happy exploring!
+I highly recommend DataCamp to anyone aspiring to build a strong foundation in data science. The platform's engaging courses, real-world projects, and supportive community have played a pivotal role in shaping my data science skills and preparing me for various challenges in the field.
+
+Thank you, DataCamp, for providing a dynamic and effective learning experience that has empowered me to tackle real-world data science problems with confidence.
+
+Happy coding!
