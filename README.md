@@ -15,7 +15,7 @@ Code: [Link to Project 1 Notebook](Project_1/Investigating%20Netflix%20movies%20
 Description: Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, I read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. You will find out who has had the most influence on its development and who are the experts.
 The dataset includes the project history of Scala retrieved from Git and GitHub as a set of CSV files.
 
-Code: [Link to Project 2 Code](https://app.datacamp.com/workspace/w/32383452-bce7-46e5-8d05-fec196dd8b14)
+Code: [Link to Project 2 Code](Project_2)
 
 ### 3. Predictive modelling for Agriculture
 
@@ -27,44 +27,44 @@ Description: A farmer reached out to you as a machine learning expert seeking he
 <b> pH </b> value of the soil
 The expert realized that this is a classic feature selection problem, where the objective is to pick the most important features that could help predict the crop accurately. Can you help him?
 
-Code: [Link to Project 3 Code](https://app.datacamp.com/workspace/w/f087f5ae-2b33-416c-b8bd-01ffecc1de1a/edit)
+Code: [Link to Project 3 Code](Project_3)
 
 ### 4. Hypothesis testing at health care
 Description: Pharmaceutical drugs have become an essential part of our health. Therefore, they need to be safe with little or no adverse effects.
 
 You work with a non-profit that advocates for pharmaceutical drug safety. One of Its tasks is to create reports on drugs independent of the drug manufacturer. You'll conduct several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. You'll also check if factors such as age significantly influence the adverse reactions.
 
-Code: [Link to Project 4 Code](https://app.datacamp.com/workspace/w/08f455e2-d9b2-4e0e-bd78-b5a786dfbaf7/edit)
+Code: [Link to Project 4 Code](Project_4)
 
 ### 5. Dr. Semmelweis and the discovery of handwashing
 Description: Briefly describe the project, including its goals and outcomes.
 
-Code: [Link to Project 5 Code](link_to_project_5_code)
+Code: [Link to Project 5 Code](Project_5)
 
 ### 6. A visual history of noble prize winners
 Description: Briefly describe the project, including its goals and outcomes.
 
-Code: [Link to Project 6 Code](link_to_project_6_code)
+Code: [Link to Project 6 Code](Project_6)
 
 ### 7. The android app market on Google Play
 Description: Briefly describe the project, including its goals and outcomes.
 
-Code: [Link to Project 7 Code](link_to_project_7_code)
+Code: [Link to Project 7 Code](Project_7)
 
 ### 8. Predicting credit card approvals
 Description: Briefly describe the project, including its goals and outcomes.
 
-Code: [Link to Project 8 Code](link_to_project_8_code)
+Code: [Link to Project 8 Code](Project_8)
 
 ### 9. Google Play store Apps data
 Description: Briefly describe the project, including its goals and outcomes.
 
-Code: [Link to Project 9 Code](link_to_project_9_code)
+Code: [Link to Project 9 Code](Project_9)
 
 ### 10. Analyzing Students' Mental Health in SQL 
 Description: Briefly describe the project, including its goals and outcomes.
 
-Code: [Link to Project 10 Code](link_to_project_10_code)
+Code: [Link to Project 10 Code](Project_10)
 
 ## Data Science Skills
 
