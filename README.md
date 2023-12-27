@@ -37,32 +37,42 @@ You work with a non-profit that advocates for pharmaceutical drug safety. One of
 Code: [Link to Project 4 Code](Project_4)
 
 ### 5. Dr. Semmelweis and the discovery of handwashing
-Description: Briefly describe the project, including its goals and outcomes.
+Description: In this notebook, we're going to reanalyze the data that made Dr. Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.
 
 Code: [Link to Project 5 Code](Project_5)
 
 ### 6. A visual history of noble prize winners
-Description: Briefly describe the project, including its goals and outcomes.
+Description: The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right?
+
+Well, we're going to find out! The Nobel Foundation has made a dataset available of all prize winners from the start of the prize, in 1901, to 2016. Let's load it in and take a look.
 
 Code: [Link to Project 6 Code](Project_6)
 
 ### 7. The android app market on Google Play
-Description: Briefly describe the project, including its goals and outcomes.
+Description: Coming up soon!
 
 Code: [Link to Project 7 Code](Project_7)
 
 ### 8. Predicting credit card approvals
-Description: Briefly describe the project, including its goals and outcomes.
+Description: Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
+We'll use the Credit Card Approval dataset from the UCI Machine Learning Repository. The structure of this notebook is as follows:
+
+The goal is to build a machine learning model that can predict if an individual's application for a credit card will be accepted.
+First, loading and viewing the dataset. We find that since this data is confidential, the contributor of the dataset has anonymized the feature names.
 
 Code: [Link to Project 8 Code](Project_8)
 
 ### 9. Google Play store Apps data
-Description: Briefly describe the project, including its goals and outcomes.
+Description: This dataset consists of web scraped data of more than 10,000 Google Play Store apps and 60,000 app reviews. apps_data.csv consists of data about the apps such as category, number of installs, and price. review_data.csv holds reviews of the apps, including the text of the review and sentiment scores. 
 
 Code: [Link to Project 9 Code](Project_9)
 
 ### 10. Analyzing Students' Mental Health in SQL 
-Description: Briefly describe the project, including its goals and outcomes.
+Description: Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
+
+The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
+
+We explore the students data using PostgreSQL to find out if you would come to a similar conclusion for international students and see if the length of stay is a contributing factor.
 
 Code: [Link to Project 10 Code](Project_10)
 
